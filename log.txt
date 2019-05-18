@@ -1,0 +1,181 @@
+Title: Cinderella,Year released: 13 Mar 2015,IMBD Rating: 6.9,Metascore rating: 67,Country Produced: USA, UK,Language: English,Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.,Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+------------------------------------------------------------
+
+Title: Cinderella,Year released: 13 Mar 2015,IMBD Rating: 6.9,Metascore rating: 67,Country Produced: USA, UK,Language: English,Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.,Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+------------------------------------------------------------
+
+Title: Avatar
+
+Year released: 18 Dec 2009
+
+IMBD Rating: 7.8
+
+Metascore rating: 83
+
+Country Produced: UK, USA
+
+Language: English, Spanish
+
+Plot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+------------------------------------------------------------
+
+Name of venue: SLANE CASTLE
+
+Location of venue: Ireland
+
+Date of event: 05 18 19
+------------------------------------------------------------
+
+Artist: metallica
+
+Name of venue: SLANE CASTLE
+
+Location of venue: Ireland
+
+Date of event: 05 18 19
+------------------------------------------------------------
+
+Artist: Sir Mix-A-Lot
+
+Song Name: Baby Got Back
+
+Preview Link: https://api.spotify.com/v1/tracks/1SAkL1mYNJlaqnBQxVZrRl
+
+Album song is from: Mack Daddy
+------------------------------------------------------------
+
+Artist: Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+
+Album song is from: Harry Styles
+------------------------------------------------------------
+
+Artist: Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+
+Album song is from: Harry Styles
+------------------------------------------------------------
+
+Artist: Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+
+Album song is from: Harry Styles
+------------------------------------------------------------
+
+Artist: Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+
+Album song is from: Harry Styles
+------------------------------------------------------------
+
+Artist: Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+
+Album song is from: Harry Styles
+------------------------------------------------------------
+
+Artist: Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+
+Album song is from: Harry Styles
+------------------------------------------------------------
+
+Title: Avatar
+
+Year released: 18 Dec 2009
+
+IMBD Rating: 7.8
+
+Metascore rating: 83
+
+Country Produced: UK, USA
+
+Language: English, Spanish
+
+Plot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+
+Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+------------------------------------------------------------
+
+Title: Cinderella
+
+Year released: 13 Mar 2015
+
+IMBD Rating: 6.9
+
+Metascore rating: 67
+
+Country Produced: USA, UK
+
+Language: English
+
+Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+------------------------------------------------------------
+
+Artist: metallica
+
+Name of venue: SLANE CASTLE
+
+Location of venue: Ireland
+
+Date of event: 05 18 19
+------------------------------------------------------------
+
+Artist: slayer
+
+Name of venue: Ruoff Home Mortgage Music Center
+
+Location of venue: United States
+
+Date of event: 05 18 19
+------------------------------------------------------------
+
+Artist: Adele
+
+Song Name: Hello
+
+Preview Link: https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw
+
+Album song is from: 25
+------------------------------------------------------------
+
+Artist: Sir Mix-A-Lot
+
+Song Name: Baby Got Back
+
+Preview Link: https://api.spotify.com/v1/tracks/1SAkL1mYNJlaqnBQxVZrRl
+
+Album song is from: Mack Daddy
+------------------------------------------------------------
+
+Artist: Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+
+Album song is from: Harry Styles
+------------------------------------------------------------
+
